@@ -1,0 +1,15 @@
+title: Aiga SUZUKI
+url: "https://tochikuji.github.io"
+baseurl: "/"
+
+markdown: kramdown
+
+tracking_id: #
+
+footer: yes
+footer_url: "https://github.com/bk2dcradle/researcher"
+footer_text: "This page uses a template by bk2dcradle."
+
+sass:
+    style: compressed
+    sass_dir: _sass

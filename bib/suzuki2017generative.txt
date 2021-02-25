@@ -1,0 +1,6 @@
+@inproceedings{suzuki2017generative,
+  title={A Generative Model of Textures Using Hierarchical Probabilistic Principal Component Analysis},
+  author={Suzuki, Aiga and Shouno, Hayaru},
+  booktitle = {Proceedings of The 23rd International Conference on Parallel and Distributed Processing Techniques and Applications},
+  year={2017}
+}

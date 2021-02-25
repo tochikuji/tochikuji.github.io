@@ -1,0 +1,9 @@
+@article{suzuki2018feature,
+  title={Feature Representation Analysis of Deep Convolutional Neural Network using Two-stage Feature Transfer - An Application for Diffuse Lung Disease Classification},
+  author={Suzuki, Aiga and Kido, Shoji and Shouno, Hayaru},
+  journal={IPSJ Transaction on Mathematical Modeling and its Applications},
+  volume={11},
+  number={3},
+  pages={74--83},
+  year={2018}
+}

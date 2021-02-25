@@ -1,0 +1,7 @@
+@inproceedings{suzuki2019pci,
+  title={PCI: Principal Component Initialization for Deep Autoencoders},
+  author={Suzuki, Aiga and Sakanashi, Hidenori},
+  booktitle={Proceedings of the 28th International Conference on Artificial Neural Networks},
+  year={2019},
+  doi={10.1007/978-3-030-30487-4}
+}

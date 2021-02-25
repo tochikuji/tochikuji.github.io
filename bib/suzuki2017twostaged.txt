@@ -1,0 +1,7 @@
+@inproceedings{suzuki2017twostaged,
+  title={A 2-staged Transfer Learning Method with Deep Convolutional Neural Network for Diffuse Lung Disease Analysis},
+  author={Suzuki, Aiga and Suzuki, Satoshi and Kido, Shoji and Shouno, Hayaru},
+  booktitle = {Proceedings of the 2017 International Forum on Medical Imaging in Asia},
+  pages={160--163},
+  year={2017}
+}
