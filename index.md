@@ -10,6 +10,7 @@ title: Aiga SUZUKI's Personal Homepage
 My name is Aiga SUZUKI (鈴木 藍雅 in Japanese Kanji), currently a doctoral student in Computer Science at University of Tsukuba, Japan.
 
 I am working at Artificial Intelligence Research Center of the National Institute of Advanced Science and Technology (AIRC, AIST) as a research assistant,
+JSPS Research Fellowship,
 and also as a freelance R&D software engineer.
 
 ----
