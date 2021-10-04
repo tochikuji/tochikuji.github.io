@@ -5,12 +5,13 @@ title: Publications
 
 ## Journal articles
 
-- <u>Aiga Suzuki</u>, Hidenori Sakanashi, Takashi Yanagimoto, Ryohei Nakamura, Shigehiro Sakamoto, "Crack Detection from External Walls of Natural Stones Using Deep Convolutional Neural Network", The AIJ Journal of Technology and Design, Accepted, TBA
+- <u>Aiga Suzuki</u>, Hidenori Sakanashi, Takashi Yanagimoto, Ryohei Nakamura, Shigehiro Sakamoto, "Crack Detection from External Walls of Natural Stones Using Deep Convolutional Neural Network", The AIJ Journal of Technology and Design, AIJ, 2021
 - <u>Aiga Suzuki</u>, Hidenori Sakanashi, Shoji Kido, Hayaru Shouno, **"Feature Representation Analysis of Deep Convolutional Neural Network using Two-stage Feature Transfer -An Application for Diffuse Lung Disease Classification-"**, IPSJ Transactions on Mathematical Modeling and its Applications (TOM), Vol.11, No.3, IPSJ, Dec. 2018 [[Link]](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=192960&item_no=1&page_id=13&block_id=8) [[BiBTeX]](bib/suzuki2018feature.txt) [[Arxiv(preprint)]](https://arxiv.org/abs/1810.06282)
 - 庄野 逸, <u>鈴木 藍雅</u>, 鈴木 聡志, 木戸 尚治, "2 段階転移学習を用いたディープコンボリューションネットの医用画像認識", 日本神経回路学会誌, 日本神経回路学会, 24 (1), pp.3-12 (2017)
 
 ## International conference
 
+- Shogo Takaoka, Takuya Kitamura, <u>Aiga Suzuki</u>, Masahiro Murakawa, "Initialization Method of Batch Uniformization AE by Principal Component Analysis", Proc. of the IEEE Symposium Series on Computational Intelligence (IEEE SSCI) 2021, IEEE, Dec. 2021 (Accepted, TBA)
 - <u>Aiga Suzuki</u>, Keiichi Ito, Takahide Ibe, Nubuyuki Otsu, **"AdaFilter: Adaptive Filter Design with Local Image Basis Decomposition for Optimizing Image Recognition Preprocessing"**, Proc. of the 25th Intl. Conference on Pattern Recognition (ICPR), pp2118--2125, IEEE, Feb. 2021.
 - Kaiwen Yang, Hidenori Sakanashi, Hirokazu Nosato, Jiaxing Ye, <u>Aiga Suzuki</u>, Ayumi Izumori, **"Tumor Detection from Breast Ultrasound Images Using Mammary Gland Atttentive U-Net"**, Proc. of the 7th International Forum on Medical Imaging in Asia (IFMIA), Jan. 2021 (also published in SPIE Proceedings.)
 - Fumito Ebuchi, <u>Aiga Suzuki</u>, Masahiro Murakawa, **"Improved Subspace Method for Supervised Anomaly Detection With Minmal Anomalous Data"**, Proc. of the 2020 Intl. Conference on Pattern Recognition Applications and Methods (ICPRAM), Springer, Feb. 2020
