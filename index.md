@@ -3,15 +3,18 @@ layout: default
 title: Aiga SUZUKI's Personal Homepage
 ---
 
-## About Me
+
+
+
+# Aiga SUZUKI, Ph. D.
 
 <img class="profile-picture" src="me.png">
 
-My name is Aiga SUZUKI (鈴木 藍雅 in Japanese Kanji), currently a doctoral student in Computer Science at University of Tsukuba, Japan.
+## About Me
 
-I am working at Artificial Intelligence Research Center of the National Institute of Advanced Science and Technology (AIRC, AIST) as a research assistant,
-JSPS Research Fellowship,
-and also as a freelance R&D software engineer.
+My name is Aiga SUZUKI (鈴木 藍雅 in Japanese Kanji), currently a postdoctoral research fellow at  Artificial Intelligence Research Center of the National Institute of Advanced Science and Technology (AIRC, AIST), supported by JSPS Research Fellowship.  
+
+I also working as a freelance R&D software engineer and a lecturer in mathematics/computer science.
 
 ----
 
@@ -55,7 +58,7 @@ Refer to [my publications](publications).
 
 ## Education
 
-### University of Tsukuba (04/2019 ~ present)
+### University of Tsukuba (04/2019 ~ 03/2022)
 *Department of Intelligent Interaction Technologies*
 
 Degree: Ph.D.  
@@ -85,6 +88,9 @@ Supervisor: Yosuke IIJIMA
 
 ## Work Experiences
 
+### National Institute of Advanced Science and Technology (AIST) (04/2022 ~ present)
+Postdoc. 
+
 ### Adacotech Inc. (08/2019 ~ present)
 *Parttime Researcher*
 
@@ -95,7 +101,7 @@ Developing new ML algorithms to improve the existing products
 
 Lecturing the Advanced Machine Learning course, Deep Learning course and Mathematics course
 
-### National Institute of Advanced Science and Technology (AIST) (04/2017 ~ present)
+### National Institute of Advanced Science and Technology (AIST) (04/2017 ~ 03/2022)
 *Research Assistant*
 
 ### Adacotech Inc. (05/2015 ~ 03/2017)
@@ -109,10 +115,10 @@ Developing the Embedded/Computer applications mainly for Real-time surveillance 
 
 - Member of IEEE Computational Intelligence Society (IEEE-CIS)
 - Member of Free Software Foundation (FSF)
-- Student Member of Information Processing Society of Japan (IPSJ)
-- Student Member of the Institute of Electronics, Information and Communication Engineers (IEICE)
+- Member of Information Processing Society of Japan (IPSJ)
+- Member of the Institute of Electronics, Information and Communication Engineers (IEICE)
 - Member of Japanese Association for Medical Artificial Intelligence (JMAI)
 - Member of Architectural Institute of Japan (AIJ)
-- Student Member of IEEE
+- Member of IEEE
 
 *****
