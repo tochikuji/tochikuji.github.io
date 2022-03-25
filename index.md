@@ -3,11 +3,6 @@ layout: default
 title: Aiga SUZUKI's Personal Homepage
 ---
 
-
-
-
-# Aiga SUZUKI, Ph. D.
-
 <img class="profile-picture" src="me.png">
 
 ## About Me
