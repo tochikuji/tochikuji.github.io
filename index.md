@@ -9,7 +9,9 @@ title: Aiga SUZUKI's Personal Homepage
 
 My name is Aiga SUZUKI (鈴木 藍雅 in Japanese Kanji), currently a postdoctoral research fellow at  Artificial Intelligence Research Center of the National Institute of Advanced Science and Technology (AIRC, AIST), supported by JSPS Research Fellowship.  
 
-I also working as a freelance R&D software engineer and a lecturer in mathematics/computer science.
+I received a Ph. D. degree in Engineering from University of Tsukuba, Japan in 2022.
+
+I also working as a freelance R&D software engineer and a lecturer in applied mathematics/computer science.
 
 ----
 
@@ -17,7 +19,7 @@ I also working as a freelance R&D software engineer and a lecturer in mathematic
 ## Research Interest
 
 - Real world applications and Biological/Theoretical analysis of Deep neural networks
-- Computer vision (Visual Texture Modeling, Medical Imaging)
+- Computer vision (Visual Texture Modeling, Medical Imaging Analysis)
 - Applied Mathematics for MLs (Connectionism of Mathematical Models with Category theory)
 
 ----
@@ -84,7 +86,7 @@ Supervisor: Yosuke IIJIMA
 ## Work Experiences
 
 ### National Institute of Advanced Science and Technology (AIST) (04/2022 ~ present)
-Postdoc. 
+Postdoc. Research Fellow
 
 ### Adacotech Inc. (08/2019 ~ present)
 *Parttime Researcher*
@@ -109,11 +111,10 @@ Developing the Embedded/Computer applications mainly for Real-time surveillance 
 ## Affiliations
 
 - Member of IEEE Computational Intelligence Society (IEEE-CIS)
-- Member of Free Software Foundation (FSF)
 - Member of Information Processing Society of Japan (IPSJ)
 - Member of the Institute of Electronics, Information and Communication Engineers (IEICE)
 - Member of Japanese Association for Medical Artificial Intelligence (JMAI)
 - Member of Architectural Institute of Japan (AIJ)
-- Member of IEEE
+- Member of Free Software Foundation (FSF)
 
 *****
