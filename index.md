@@ -11,7 +11,7 @@ My name is Aiga SUZUKI (鈴木 藍雅 in Japanese Kanji), currently a postdoctor
 
 I received a Ph. D. degree in Engineering from University of Tsukuba, Japan in 2022.
 
-I also working as a freelance R&D software engineer and a lecturer in applied mathematics/computer science.
+I am also working as a freelance R&D software engineer and a lecturer in applied mathematics/computer science.
 
 ----
 
