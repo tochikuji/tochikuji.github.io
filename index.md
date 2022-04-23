@@ -7,11 +7,11 @@ title: Aiga SUZUKI's Personal Homepage
 
 ## About Me
 
-My name is Aiga SUZUKI (鈴木 藍雅 in Japanese Kanji), currently a postdoctoral research fellow at  Artificial Intelligence Research Center of the National Institute of Advanced Science and Technology (AIRC, AIST), supported by JSPS Research Fellowship.  
+My name is Aiga SUZUKI (鈴木 藍雅), currently a postdoctoral research fellow at  Artificial Intelligence Research Center of the National Institute of Advanced Science and Technology (AIRC, AIST), supported by JSPS Research Fellowship.  
 
-I received a Ph. D. degree in Engineering from University of Tsukuba, Japan in 2022.
+I received a Ph. D. degree in Engineering from University of Tsukuba, Japan.
 
-I am also working as a freelance R&D software engineer and a lecturer in applied mathematics/computer science.
+I am also working as a freelance R&D software engineer and a lecturer in applied mathematics/machine learning.
 
 ----
 
