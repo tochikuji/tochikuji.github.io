@@ -32,6 +32,8 @@ Refer to [my publications](publications).
 
 ## Awards
 
+- IPSJ Computer Science Research Award for Young Scientists, IPSJ, Jul., 2022.
+- **Best Presentation Award**, 137th IPSJ Technical Committee on Mathematical Modeling and Problem Solving, Mar, 2022.
 - **Best Presentation Award**, 120th IPSJ Technical Committee on Mathematical Modeling and Problem Solving, Oct, 2018.
 - [**IPSJ Yamashita SIG Research Award**](https://www.ipsj.or.jp/award/yamasita2018-detail.html#mps), Information Processing Society of Japan, March, 2019.
 - **Certificate of Commendation**, The 1st Test of JDLA Deep Learning for GENERAL 2017, July, 2018.
@@ -42,6 +44,8 @@ Refer to [my publications](publications).
 
 <details>
 <summary>Japanese</summary>
+<li><strong>コンピュータサイエンス領域奨励賞</strong>, 情報処理学会, 2022年7月.</li>
+<li><strong>ベストプレゼンテーション賞</strong>, 第137回 情報処理学会数理モデル化と問題解決研究会, 2022年3月.</li>
 <li><strong>ベストプレゼンテーション賞</strong>, 第120回 情報処理学会数理モデル化と問題解決研究会, 2018年10月.</li>
 <li><strong>2018年度 情報処理学会 山下記念研究賞</strong>, 情報処理学会 第81回全国大会, 2019年3月. </li>
 <li><strong>成績優秀賞</strong>, 第1回 日本ディープラーニング協会 ジェネラリスト検定, 2018年7月.</li>

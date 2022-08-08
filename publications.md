@@ -5,13 +5,14 @@ title: Publications
 
 ## Journal articles
 
+- Kaiwen Yang, <u>Aiga Suzuki</u>, Jiaxing Ye, Hirokazu Nosato, Ayumi Izumori, Hidenori Sakanashi, "CTG-Net: Cross-task guided network for breast ultrasound diagnosis", PLOS ONE, PLOS, 2022.
 - <u>Aiga Suzuki</u>, Hidenori Sakanashi, Takashi Yanagimoto, Ryohei Nakamura, Shigehiro Sakamoto, "Crack Detection from External Walls of Natural Stones Using Deep Convolutional Neural Network", The AIJ Journal of Technology and Design, AIJ, 2021
 - <u>Aiga Suzuki</u>, Hidenori Sakanashi, Shoji Kido, Hayaru Shouno, **"Feature Representation Analysis of Deep Convolutional Neural Network using Two-stage Feature Transfer -An Application for Diffuse Lung Disease Classification-"**, IPSJ Transactions on Mathematical Modeling and its Applications (TOM), Vol.11, No.3, IPSJ, Dec. 2018 [[Link]](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=192960&item_no=1&page_id=13&block_id=8) [[BiBTeX]](bib/suzuki2018feature.txt) [[Arxiv(preprint)]](https://arxiv.org/abs/1810.06282)
 - 庄野 逸, <u>鈴木 藍雅</u>, 鈴木 聡志, 木戸 尚治, "2 段階転移学習を用いたディープコンボリューションネットの医用画像認識", 日本神経回路学会誌, 日本神経回路学会, 24 (1), pp.3-12 (2017)
 
 ## International conference
 
-- Shogo Takaoka, Takuya Kitamura, <u>Aiga Suzuki</u>, Masahiro Murakawa, "Initialization Method of Batch Uniformization AE by Principal Component Analysis", Proc. of the IEEE Symposium Series on Computational Intelligence (IEEE SSCI) 2021, IEEE, Dec. 2021 (Accepted, TBA)
+- Shogo Takaoka, Takuya Kitamura, <u>Aiga Suzuki</u>, Masahiro Murakawa, "Initialization Method of Batch Uniformization AE by Principal Component Analysis", Proc. of the IEEE Symposium Series on Computational Intelligence (IEEE SSCI) 2021, IEEE, Dec. 2021
 - <u>Aiga Suzuki</u>, Keiichi Ito, Takahide Ibe, Nubuyuki Otsu, **"AdaFilter: Adaptive Filter Design with Local Image Basis Decomposition for Optimizing Image Recognition Preprocessing"**, Proc. of the 25th Intl. Conference on Pattern Recognition (ICPR), pp2118--2125, IEEE, Feb. 2021.
 - Kaiwen Yang, Hidenori Sakanashi, Hirokazu Nosato, Jiaxing Ye, <u>Aiga Suzuki</u>, Ayumi Izumori, **"Tumor Detection from Breast Ultrasound Images Using Mammary Gland Atttentive U-Net"**, Proc. of the 7th International Forum on Medical Imaging in Asia (IFMIA), Jan. 2021 (also published in SPIE Proceedings.)
 - Fumito Ebuchi, <u>Aiga Suzuki</u>, Masahiro Murakawa, **"Improved Subspace Method for Supervised Anomaly Detection With Minmal Anomalous Data"**, Proc. of the 2020 Intl. Conference on Pattern Recognition Applications and Methods (ICPRAM), Springer, Feb. 2020
@@ -27,6 +28,7 @@ title: Publications
 
 ## Domestic Conferences/Symposiums (国内会議)
 
+- <u>鈴木 藍雅</u>,坂無 英徳, "多様体仮説に基づく統計的機械学習の圏論的定式化",  情報処理学会 研究報告数理モデル化と問題解決研究会 (MPS) 研究報告, 2022年3月
 - <u>鈴木 藍雅</u>,坂無 英徳, 柳本 貴司, 中村 良平, 坂本 成弘, "人工知能を用いた外装石材のひび割れ判定手法の開発 - その4 実用化に向けた過検出抑制手法と可視化手法の検討", 2020年度日本建築学会大会, 2020年10月
 - 柳本 貴司, 中村 良平, 坂本 成弘, <u>鈴木 藍雅</u>, 坂無 英徳, "人工知能を用いた外装石材のひび割れ判定手法の開発 - その3 学習ネットワークモデルの違いによる検出率と精度の検証", 2020年度日本建築学会大会, 2020年10月
 - <u>鈴木 藍雅</u>, 柳本 貴司, 中村 良平, 坂本 成弘,坂無 英徳, "深層畳み込みニューラルネットワークによる建物外装石材画像からのひび検出", 情報処理学会 研究報告数理モデル化と問題解決研究会 (MPS) 研究報告, 2020年3月
