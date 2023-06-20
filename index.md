@@ -7,19 +7,19 @@ title: Aiga SUZUKI's Personal Homepage
 
 ## About Me
 
-My name is Aiga SUZUKI (鈴木 藍雅), currently a postdoctoral research fellow at  Artificial Intelligence Research Center of the National Institute of Advanced Science and Technology (AIRC, AIST), supported by JSPS Research Fellowship.  
+Aiga SUZUKI is a researcher at the Taisei Advanced Center of Technology, Taisei Corporation.
 
-I received a Ph. D. degree in Engineering from University of Tsukuba, Japan.
+He received his Ph.D. degree in engineering from the University of Tsukuba, Japan.
 
-I am also working as a freelance R&D software engineer and a lecturer in applied mathematics/machine learning.
+He mainly works on applied research of machine learning for construction and civil engineering.
 
 ----
 
 
 ## Research Interest
 
-- Real world applications and Biological/Theoretical analysis of Deep neural networks
-- Computer vision (Visual Texture Modeling, Medical Imaging Analysis)
+- Real world applications and Theoretical analysis of Deep neural networks
+- Computer vision (Visual Texture Modeling, Anomaly Detection and Vector Graphic Recognition)
 - Applied Mathematics for MLs (Connectionism of Mathematical Models with Category theory)
 
 ----
@@ -89,15 +89,18 @@ Supervisor: Yosuke IIJIMA
 
 ## Work Experiences
 
-### National Institute of Advanced Science and Technology (AIST) (04/2022 ~ present)
-Postdoc. Research Fellow
+### Taisei Corporation (03/2023 ~ present)
+Research Scientist at Taisei Advanced Center of Technology (TAC.T)
 
-### Adacotech Inc. (08/2019 ~ present)
+### National Institute of Advanced Science and Technology (AIST) (04/2022 ~ 03/2023)
+Postdoctoral Research Fellow
+
+### Adacotech Inc. (08/2019 ~ 03/2023)
 *Parttime Researcher*
 
 Developing new ML algorithms to improve the existing products
 
-### SkillUp AI Inc. (10/2018 ~ present)
+### SkillUp AI Inc. (10/2018 ~ 03/2023)
 *Lecturer*
 
 Lecturing the Advanced Machine Learning course, Deep Learning course and Mathematics course
@@ -117,7 +120,6 @@ Developing the Embedded/Computer applications mainly for Real-time surveillance 
 - Member of IEEE Computational Intelligence Society (IEEE-CIS)
 - Member of Information Processing Society of Japan (IPSJ)
 - Member of the Institute of Electronics, Information and Communication Engineers (IEICE)
-- Member of Japanese Association for Medical Artificial Intelligence (JMAI)
 - Member of Architectural Institute of Japan (AIJ)
 - Member of Free Software Foundation (FSF)
 
