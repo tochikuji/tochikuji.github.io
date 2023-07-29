@@ -7,11 +7,11 @@ title: Aiga SUZUKI's Personal Homepage
 
 ## About Me
 
-Aiga SUZUKI is a researcher at the Taisei Advanced Center of Technology, Taisei Corporation.
+Aiga SUZUKI is a researcher at the Taisei Advanced Center of Technology (Research institute), Taisei Corporation.
 
 He received his Ph.D. degree in engineering from the University of Tsukuba, Japan.
 
-He mainly works on applied research of machine learning for construction and civil engineering.
+He mainly works on applied research of machine learning and computer vision for construction and civil engineering.
 
 ----
 
@@ -20,7 +20,7 @@ He mainly works on applied research of machine learning for construction and civ
 
 - Real world applications and Theoretical analysis of Deep neural networks
 - Computer vision (Visual Texture Modeling, Anomaly Detection and Vector Graphic Recognition)
-- Applied Mathematics for MLs (Connectionism of Mathematical Models with Category theory)
+- Applied Mathematics for the theory of MLs (Connectionism of Mathematical Models with Category theory)
 
 ----
 
