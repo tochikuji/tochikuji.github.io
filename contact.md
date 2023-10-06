@@ -5,10 +5,10 @@ is_contact: true
 ---
 
 #### Address
-1-1-1 Umezono, Tsukuba, Ibaraki 305-8560 Japan 	
+344-1 Nase-cho, Totsuka-ku, Yokohama, Kanagawa, 245-0051, Japan 	
 
 #### E-mail
-ai-suzuki [at] aist.go.jp
+ai-suzuki@neocognition.dev
 
 #### PGP Public Key
 [here](pgp)

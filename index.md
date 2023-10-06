@@ -18,9 +18,10 @@ He mainly works on applied research of machine learning and computer vision for 
 
 ## Research Interest
 
-- Real world applications and Theoretical analysis of Deep neural networks
+- Real world applications and Theoretical/Biological analysis of Deep neural networks
 - Computer vision (Visual Texture Modeling, Anomaly Detection and Vector Graphic Recognition)
 - Applied Mathematics for the theory of MLs (Connectionism of Mathematical Models with Category theory)
+- AI-based applications of IoT systems, especially for sensor networks
 
 ----
 
