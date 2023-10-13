@@ -11,7 +11,7 @@ Aiga SUZUKI is a researcher at the Taisei Advanced Center of Technology (Researc
 
 He received his Ph.D. degree in engineering from the University of Tsukuba, Japan.
 
-He mainly works on applied research of machine learning and computer vision for construction and civil engineering.
+He mainly works on applied research of machine learning, especially in the fields of computer vision, natural language processing and signal processing, for construction and civil engineering.
 
 ----
 
