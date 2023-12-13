@@ -12,6 +12,7 @@ title: Publications
 
 ## International conference
 
+- Kaiwen Yang, <u>Aiga Suzuki</u>, Jiaxing Ye, Hirokazu Nosato, Ayumi Izumori, Hidenori Sakanashi,"Multi-task Learning with Consistent Prediction for Efficient Breast Ultrasound Tumor Detection", 2022 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), IEEE, Dec. 2022
 - Shogo Takaoka, Takuya Kitamura, <u>Aiga Suzuki</u>, Masahiro Murakawa, "Initialization Method of Batch Uniformization AE by Principal Component Analysis", Proc. of the IEEE Symposium Series on Computational Intelligence (IEEE SSCI) 2021, IEEE, Dec. 2021
 - <u>Aiga Suzuki</u>, Keiichi Ito, Takahide Ibe, Nubuyuki Otsu, **"AdaFilter: Adaptive Filter Design with Local Image Basis Decomposition for Optimizing Image Recognition Preprocessing"**, Proc. of the 25th Intl. Conference on Pattern Recognition (ICPR), pp2118--2125, IEEE, Feb. 2021.
 - Kaiwen Yang, Hidenori Sakanashi, Hirokazu Nosato, Jiaxing Ye, <u>Aiga Suzuki</u>, Ayumi Izumori, **"Tumor Detection from Breast Ultrasound Images Using Mammary Gland Atttentive U-Net"**, Proc. of the 7th International Forum on Medical Imaging in Asia (IFMIA), Jan. 2021 (also published in SPIE Proceedings.)
@@ -24,7 +25,7 @@ title: Publications
 ## Books
 - 学ぶ！究める！医療AI ディープラーニングの基礎から研究最前線まで, iv-MOOK vol.1, インナービジョン (チャプター寄稿) [[Link]](https://www.innervision.co.jp/publication/book/list/20200421aimook)
 - <u>鈴木 藍雅</u>, "第11回 医工学研究者によるディープラーニング研究最前線", 月刊インナービジョン2019年12月号, Vol.34, No.12, Nov. 2019 [[Link]](https://www.innervision.co.jp/publication/innervision2019/innervision201912)
-- <u>Aiga Suzuki</u>, Hidenori Sakanashi, Shoji Kido, Hayaru Shouno, **"Deep Learning in Textural Medical Image Analysis"**, Deep Learning in Healthcare - Paradigms and Applications, pp.111-126, Springer, Feb. 2020 (To be published) [[Link]](https://www.springer.com/gp/book/9783030326050)
+- <u>Aiga Suzuki</u>, Hidenori Sakanashi, Shoji Kido, Hayaru Shouno, **"Deep Learning in Textural Medical Image Analysis"**, Deep Learning in Healthcare - Paradigms and Applications, pp.111-126, Springer, Feb. 2020 [[Link]](https://www.springer.com/gp/book/9783030326050)
 
 ## Domestic Conferences/Symposiums (国内会議)
 
