@@ -33,6 +33,7 @@ Refer to [my publications](publications).
 
 ## Awards
 
+- Young Researcher Award (Structural and Construction Engineering Section), Architectural Institute of Japan, Dec., 2023.
 - IPSJ Computer Science Research Award for Young Scientists, IPSJ, Jul., 2022.
 - **Best Presentation Award**, 137th IPSJ Technical Committee on Mathematical Modeling and Problem Solving, Mar, 2022.
 - **Best Presentation Award**, 120th IPSJ Technical Committee on Mathematical Modeling and Problem Solving, Oct, 2018.
@@ -45,6 +46,7 @@ Refer to [my publications](publications).
 
 <details>
 <summary>Japanese</summary>
+<li><strong>2023年度日本建築学会大会 構造部門振動分野 若手優秀発表賞</strong>, 日本建築学会, 2023年12月.</li>
 <li><strong>コンピュータサイエンス領域奨励賞</strong>, 情報処理学会, 2022年7月.</li>
 <li><strong>ベストプレゼンテーション賞</strong>, 第137回 情報処理学会数理モデル化と問題解決研究会, 2022年3月.</li>
 <li><strong>ベストプレゼンテーション賞</strong>, 第120回 情報処理学会数理モデル化と問題解決研究会, 2018年10月.</li>
