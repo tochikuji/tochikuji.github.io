@@ -12,6 +12,7 @@ title: Publications
 
 ## International conference
 
+- <u>Aiga Suzuki</u>, "Introducing Neural Plasticity into \\Fully-Connected Neural Networks via\\ the Over-complete Matrix Decomposition", International Joint Conference on Neural Networks (IJCNN'24) WBCM-CogM (workshop paper), IEEE, Jul., 2024
 - Kaiwen Yang, <u>Aiga Suzuki</u>, Jiaxing Ye, Hirokazu Nosato, Ayumi Izumori, Hidenori Sakanashi,"Multi-task Learning with Consistent Prediction for Efficient Breast Ultrasound Tumor Detection", 2022 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), IEEE, Dec. 2022
 - Shogo Takaoka, Takuya Kitamura, <u>Aiga Suzuki</u>, Masahiro Murakawa, "Initialization Method of Batch Uniformization AE by Principal Component Analysis", Proc. of the IEEE Symposium Series on Computational Intelligence (IEEE SSCI) 2021, IEEE, Dec. 2021
 - <u>Aiga Suzuki</u>, Keiichi Ito, Takahide Ibe, Nubuyuki Otsu, **"AdaFilter: Adaptive Filter Design with Local Image Basis Decomposition for Optimizing Image Recognition Preprocessing"**, Proc. of the 25th Intl. Conference on Pattern Recognition (ICPR), pp2118--2125, IEEE, Feb. 2021.
