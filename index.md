@@ -33,7 +33,8 @@ Refer to [my publications](publications).
 
 ## Awards
 
-- Young Researcher Award (Structural and Construction Engineering Section), Architectural Institute of Japan, Dec., 2023.
+- **Young Researcher Award** (Information Technology Section), Architectural Institute of Japan, Jan., 2025.
+- **Young Researcher Award** (Structural and Construction Engineering Section), Architectural Institute of Japan, Dec., 2023.
 - IPSJ Computer Science Research Award for Young Scientists, IPSJ, Jul., 2022.
 - **Best Presentation Award**, 137th IPSJ Technical Committee on Mathematical Modeling and Problem Solving, Mar, 2022.
 - **Best Presentation Award**, 120th IPSJ Technical Committee on Mathematical Modeling and Problem Solving, Oct, 2018.
