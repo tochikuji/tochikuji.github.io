@@ -12,7 +12,7 @@ title: Publications
 
 ## International conference
 
-- <u>Aiga Suzuki</u>, "Introducing Neural Plasticity into \\Fully-Connected Neural Networks via\\ the Over-complete Matrix Decomposition", International Joint Conference on Neural Networks (IJCNN'24) WBCM-CogM (workshop paper), IEEE, Jul., 2024
+- <u>Aiga Suzuki</u>, "Introducing Neural Plasticity into Fully-Connected Neural Networks via the Over-complete Matrix Decomposition", International Joint Conference on Neural Networks (IJCNN'24) WBCM-CogM (workshop paper), IEEE, Jul., 2024
 - Kaiwen Yang, <u>Aiga Suzuki</u>, Jiaxing Ye, Hirokazu Nosato, Ayumi Izumori, Hidenori Sakanashi,"Multi-task Learning with Consistent Prediction for Efficient Breast Ultrasound Tumor Detection", 2022 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), IEEE, Dec. 2022
 - Shogo Takaoka, Takuya Kitamura, <u>Aiga Suzuki</u>, Masahiro Murakawa, "Initialization Method of Batch Uniformization AE by Principal Component Analysis", Proc. of the IEEE Symposium Series on Computational Intelligence (IEEE SSCI) 2021, IEEE, Dec. 2021
 - <u>Aiga Suzuki</u>, Keiichi Ito, Takahide Ibe, Nubuyuki Otsu, **"AdaFilter: Adaptive Filter Design with Local Image Basis Decomposition for Optimizing Image Recognition Preprocessing"**, Proc. of the 25th Intl. Conference on Pattern Recognition (ICPR), pp2118--2125, IEEE, Feb. 2021.
@@ -30,6 +30,9 @@ title: Publications
 
 ## Domestic Conferences/Symposiums (国内会議)
 
+- <u>鈴木 藍雅</u>, 佐藤 貢一, 末田 卓巳, 中村 俊之, "免震ベースプレートコンクリートの空隙率評価の自動化に向けた平面精密3次元計測技術の開発", 2025年度日本建築学会大会, 2025年9月
+- 渡邊 敬太, <u>鈴木 藍雅</u>, 屋祢下 亮, "赤外光を使った夜間撮影による植物の渇水検出手法の基礎的検討", 2025年度日本建築学会大会, 2025年9月
+- <u>鈴木 藍雅</u>,  冨髙 隆, 中村 良平, "業務効率化に向けた図面PDF解析AIシステムの開発　その1 レイアウト情報構造化による高速テキスト検索", 2024年度日本建築学会大会, 2024年7月
 - <u>鈴木 藍雅</u>, 相馬 智明, 中村 良平, 安田 聡, 瀬戸享一朗 "AIによる製材の木口面画像を用いたヤング率推定", 第168回 木質構造研究会 (JTES168), 2023年12月
 - 山崎泰知, <u>鈴木 藍雅</u>, "数値解析を使用したガラスシーリング材の物性値推定の試み - ベイズ最適化を用いた検討", 情報論的学習理論ワークショップ (IBIS 2023), 2023年10月
 - <u>鈴木 藍雅</u>, "過完備近似行列分解に基づくニューラルネットワークの可塑化", 情報論的学習理論ワークショップ (IBIS 2023), 2023年10月
