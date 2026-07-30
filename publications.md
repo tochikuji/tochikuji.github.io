@@ -24,6 +24,8 @@ title: Publications
 - <u>Aiga SUZUKI</u>, Satoshi SUZUKI, Shoji KIDO, Hayaru SHOUNO, **"A 2-staged Transfer Learning Method with Deep Convolutional Neural Network for Diffuse Lung Disease Analysis"**, Proc. of the 2017 Intl. Forum on Medical Imaging in Asia (IFMIA 2017), pp.160-163, Japan, Jan. 2017. [[BiBTeX]](bib/suzuki2017twostaged.txt)
 
 ## Books
+
+- "生成AIを活用した土木工事全体施工計画書作成支援システム", 建設機械施工, Vol.78, No.7, pp. 25-32, 建設機械施工協会, 2026年7月, [[Link]](https://jcmanet.or.jp/kikanshi/202607/)
 - 学ぶ！究める！医療AI ディープラーニングの基礎から研究最前線まで, iv-MOOK vol.1, インナービジョン (チャプター寄稿) [[Link]](https://www.innervision.co.jp/publication/book/list/20200421aimook)
 - <u>鈴木 藍雅</u>, "第11回 医工学研究者によるディープラーニング研究最前線", 月刊インナービジョン2019年12月号, Vol.34, No.12, Nov. 2019 [[Link]](https://www.innervision.co.jp/publication/innervision2019/innervision201912)
 - <u>Aiga Suzuki</u>, Hidenori Sakanashi, Shoji Kido, Hayaru Shouno, **"Deep Learning in Textural Medical Image Analysis"**, Deep Learning in Healthcare - Paradigms and Applications, pp.111-126, Springer, Feb. 2020 [[Link]](https://www.springer.com/gp/book/9783030326050)
