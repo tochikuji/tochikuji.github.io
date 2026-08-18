@@ -33,6 +33,7 @@ Refer to [my publications](publications).
 
 ## Awards
 
+- **Best Poster Presentation Award** \[15/761 (Top 2%)\], The 29th Meeting on Image Recognition and Understanding (MIRU2026), Aug., 2026.
 - **Young Researcher Award** (Information Technology Section), Architectural Institute of Japan, Jan., 2025.
 - **Young Researcher Award** (Structural and Construction Engineering Section), Architectural Institute of Japan, Dec., 2023.
 - IPSJ Computer Science Research Award for Young Scientists, IPSJ, Jul., 2022.
@@ -47,6 +48,7 @@ Refer to [my publications](publications).
 
 <details>
 <summary>Japanese</summary>
+<li><strong>第29回 画像の認識・理解シンポジウム (MIRU2026) インタラクティブ発表賞, 2026年8月.</strong></li>
 <li><strong>2023年度日本建築学会大会 構造部門振動分野 若手優秀発表賞</strong>, 日本建築学会, 2023年12月.</li>
 <li><strong>コンピュータサイエンス領域奨励賞</strong>, 情報処理学会, 2022年7月.</li>
 <li><strong>ベストプレゼンテーション賞</strong>, 第137回 情報処理学会数理モデル化と問題解決研究会, 2022年3月.</li>
