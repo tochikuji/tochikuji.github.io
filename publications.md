@@ -23,18 +23,19 @@ title: Publications
 - Hayaru Shouno, Satoshi Suzuki, <u>Aiga Suzuki</u>, Shoji Kido, **"Applying Transfer Method for Deep Learning from Application Viewpoint"**, Proc. of the 2017 Intl. Forum on Medical Imaging in Asia (IFMIA 2017), pp.95-99, Japan, Jan. 2017.
 - <u>Aiga SUZUKI</u>, Satoshi SUZUKI, Shoji KIDO, Hayaru SHOUNO, **"A 2-staged Transfer Learning Method with Deep Convolutional Neural Network for Diffuse Lung Disease Analysis"**, Proc. of the 2017 Intl. Forum on Medical Imaging in Asia (IFMIA 2017), pp.160-163, Japan, Jan. 2017. [[BiBTeX]](bib/suzuki2017twostaged.txt)
 
-## Books
+## Books / Invited chapter
 
-- "生成AIを活用した土木工事全体施工計画書作成支援システム", 建設機械施工, Vol.78, No.7, pp. 25-32, 建設機械施工協会, 2026年7月, [[Link]](https://jcmanet.or.jp/kikanshi/202607/)
+- <u>鈴木 藍雅</u>, 大政 文和, 浅井 拓朗, 山口　亮, "生成AI を活用した技術ナレッジ共有と技術伝承の展望 - 施工技術探索システム・設備ナレッジシステムによる知識活用の高度化 ―", 電気設備学会誌 Vol. 46, No. 10, 2026/10.
+- <u>鈴木 藍雅</u>, "生成AIを活用した土木工事全体施工計画書作成支援システム", 建設機械施工, Vol.78, No.7, pp. 25-32, 建設機械施工協会, 2026年7月, [[Link]](https://jcmanet.or.jp/kikanshi/202607/)
 - 学ぶ！究める！医療AI ディープラーニングの基礎から研究最前線まで, iv-MOOK vol.1, インナービジョン (チャプター寄稿) [[Link]](https://www.innervision.co.jp/publication/book/list/20200421aimook)
 - <u>鈴木 藍雅</u>, "第11回 医工学研究者によるディープラーニング研究最前線", 月刊インナービジョン2019年12月号, Vol.34, No.12, Nov. 2019 [[Link]](https://www.innervision.co.jp/publication/innervision2019/innervision201912)
 - <u>Aiga Suzuki</u>, Hidenori Sakanashi, Shoji Kido, Hayaru Shouno, **"Deep Learning in Textural Medical Image Analysis"**, Deep Learning in Healthcare - Paradigms and Applications, pp.111-126, Springer, Feb. 2020 [[Link]](https://www.springer.com/gp/book/9783030326050)
 
 ## Domestic Conferences/Symposiums (国内会議)
 
-- <u>鈴木 藍雅</u>, "建築図面PDF解析AIシステムの開発 - その2 建築図面基盤モデル構築に向けた中間言語化", 2026年度日本建築学会大会, 2026年9月 _(TBA)_
-- 浦野 明, 丸山 玄, <u>鈴木 藍雅</u>, "評価グリッド法によるインタビューを支援する対話システムの開発: その５　一時間インタビューを可能にするWebアプリの開発", 2026年度日本建築学会大会, 2026年9月 _(TBA)_
-- 岡山 真之介, 長谷川 達也, 宮澤 宏輝, 廣石 恒二, 柳坂 祥希, 青野 翔, 谷 翼, <u>鈴木 藍雅</u>, "深層強化学習によるセミアクティブAI免震振動制御", 2026年度日本建築学会大会, 2026年9月 _(TBA)_
+- <u>鈴木 藍雅</u>, "建築図面PDF解析AIシステムの開発 - その2 建築図面基盤モデル構築に向けた中間言語化", 2026年度日本建築学会大会, 2026年9月
+- 浦野 明, 丸山 玄, <u>鈴木 藍雅</u>, "評価グリッド法によるインタビューを支援する対話システムの開発: その５　一時間インタビューを可能にするWebアプリの開発", 2026年度日本建築学会大会, 2026年9月 
+- 岡山 真之介, 長谷川 達也, 宮澤 宏輝, 廣石 恒二, 柳坂 祥希, 青野 翔, 谷 翼, <u>鈴木 藍雅</u>, "深層強化学習によるセミアクティブAI免震振動制御", 2026年度日本建築学会大会, 2026年9月 
 - <u>鈴木 藍雅</u>, 佐藤 貢一, 末田 卓巳, 中村 俊之, "免震ベースプレートコンクリートの空隙率評価の自動化に向けた平面精密3次元計測技術の開発", 2025年度日本建築学会大会, 2025年9月
 - <u>鈴木 藍雅</u>, "コンクリート大平面の精密三次元計測に向けた近接点光源照度差ステレオ法の効率的解法", 画像の理解・認識シンポジウム(MIRU2026), 2026年8月
 - <u>鈴木 藍雅</u>, "Volterra核周波数応答解析によるEcho State Networkの最適設計", 電子情報通信学会ニューロコンピューティング研究会(NC) 信学技報, 2026年7月

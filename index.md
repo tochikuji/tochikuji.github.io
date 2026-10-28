@@ -7,14 +7,13 @@ title: Aiga SUZUKI's Personal Homepage
 
 ## About Me
 
-Aiga SUZUKI is a researcher at the Taisei Advanced Center of Technology (Research institute), Taisei Corporation.
+Aiga SUZUKI (鈴木 藍雅) is a researcher at the Taisei Advanced Center of Technology (Research institute), Taisei Corporation.
 
 He received his Ph.D. degree in engineering from the University of Tsukuba, Japan.
 
-He mainly works on applied research of machine learning, especially in the fields of computer vision, natural language processing and signal processing, for construction and civil engineering.
+He mainly works on applied research of AIs (artificial neural networks, statistical machine learning,) especially in the fields of computer vision, natural language processing and signal processing, for construction and civil engineering.
 
 ----
-
 
 ## Research Interest
 
@@ -97,25 +96,31 @@ Supervisor: Yosuke IIJIMA
 ## Work Experiences
 
 ### Taisei Corporation (03/2023 ~ present)
+
 Research Scientist at Taisei Advanced Center of Technology (TAC.T)
 
 ### National Institute of Advanced Science and Technology (AIST) (04/2022 ~ 03/2023)
+
 Postdoctoral Research Fellow
 
 ### Adacotech Inc. (08/2019 ~ 03/2023)
+
 *Parttime Researcher*
 
 Developing new ML algorithms to improve the existing products
 
 ### SkillUp AI Inc. (10/2018 ~ 03/2023)
+
 *Lecturer*
 
 Lecturing the Advanced Machine Learning course, Deep Learning course and Mathematics course
 
 ### National Institute of Advanced Science and Technology (AIST) (04/2017 ~ 03/2022)
+
 *Research Assistant*
 
 ### Adacotech Inc. (05/2015 ~ 03/2017)
+
 *Parttime R&D Engineer*
 
 Developing the Embedded/Computer applications mainly for Real-time surveillance systems
